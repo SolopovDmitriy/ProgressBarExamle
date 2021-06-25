@@ -1,0 +1,15 @@
+D:\c#\lesson66\ProgressBarExample\ProgressBarExamle\bin\Debug\ProgressBarExamle.exe.config
+D:\c#\lesson66\ProgressBarExample\ProgressBarExamle\bin\Debug\ProgressBarExamle.exe
+D:\c#\lesson66\ProgressBarExample\ProgressBarExamle\bin\Debug\ProgressBarExamle.pdb
+D:\c#\lesson66\ProgressBarExample\ProgressBarExamle\obj\Debug\ProgressBarExamle.csprojAssemblyReference.cache
+D:\c#\lesson66\ProgressBarExample\ProgressBarExamle\obj\Debug\MainWindow.g.cs
+D:\c#\lesson66\ProgressBarExample\ProgressBarExamle\obj\Debug\App.g.cs
+D:\c#\lesson66\ProgressBarExample\ProgressBarExamle\obj\Debug\ProgressBarExamle_MarkupCompile.cache
+D:\c#\lesson66\ProgressBarExample\ProgressBarExamle\obj\Debug\ProgressBarExamle_MarkupCompile.lref
+D:\c#\lesson66\ProgressBarExample\ProgressBarExamle\obj\Debug\MainWindow.baml
+D:\c#\lesson66\ProgressBarExample\ProgressBarExamle\obj\Debug\ProgressBarExamle.g.resources
+D:\c#\lesson66\ProgressBarExample\ProgressBarExamle\obj\Debug\ProgressBarExamle.Properties.Resources.resources
+D:\c#\lesson66\ProgressBarExample\ProgressBarExamle\obj\Debug\ProgressBarExamle.csproj.GenerateResource.cache
+D:\c#\lesson66\ProgressBarExample\ProgressBarExamle\obj\Debug\ProgressBarExamle.csproj.CoreCompileInputs.cache
+D:\c#\lesson66\ProgressBarExample\ProgressBarExamle\obj\Debug\ProgressBarExamle.exe
+D:\c#\lesson66\ProgressBarExample\ProgressBarExamle\obj\Debug\ProgressBarExamle.pdb
